@@ -28,7 +28,7 @@ except ImportError:
     print("[Warning] Magic is not installed, using file extensions to guess mime types")
     magic = None
 
-from .lib import matrix, util
+from lib import matrix, util
 
 
 def convert_name(name: str) -> str:
