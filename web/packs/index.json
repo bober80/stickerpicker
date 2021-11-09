@@ -1,7 +1,8 @@
 {
   "packs": [
     "mooooray.json",
-    "massinha.json"
+    "massinha.json",
+    "stickers-GM.json"
   ],
   "homeserver_url": "https://matrix.isg-sys.com"
 }
