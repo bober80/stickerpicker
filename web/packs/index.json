@@ -3,7 +3,8 @@
     "mooooray.json",
     "massinha.json",
     "stickers-Marathon.json",
-    "zvyarki.json"
+    "zvyarki.json",
+    "other.json"
   ],
   "homeserver_url": "https://matrix.isg-sys.com"
 }
