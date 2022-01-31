@@ -1,9 +1,6 @@
 {
   "packs": [
-    "mooooray.json",
-    "massinha.json",
-    "zvyarki.json",
-    "other.json"
+    "zvyarki.json"
   ],
   "homeserver_url": "https://matrix.isg-sys.com"
 }
