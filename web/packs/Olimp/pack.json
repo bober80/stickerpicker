@@ -1,0 +1,96 @@
+{
+	"title": "Olimp",
+	"id": "Olimp",
+	"stickers": [
+		{
+			"body": "Да забей",
+			"url": "mxc://matrix.isg-sys.com/vwWdfaXurierIcDFtIJokHVt",
+			"info": {
+				"w": 256,
+				"h": 256,
+				"size": 247137,
+				"mimetype": "image/png",
+				"thumbnail_url": "mxc://matrix.isg-sys.com/vwWdfaXurierIcDFtIJokHVt",
+				"thumbnail_info": {
+					"w": 256,
+					"h": 256,
+					"size": 247137,
+					"mimetype": "image/png"
+				}
+			},
+			"id": "sha256:2701e6a181ba3c991facdd5306eb0df5f283467b8eb6430bc43ad41f23760698"
+		},
+		{
+			"body": "Изи катка",
+			"url": "mxc://matrix.isg-sys.com/EFqcQftIvHZXUAGXcujIRtcr",
+			"info": {
+				"w": 256,
+				"h": 256,
+				"size": 153452,
+				"mimetype": "image/png",
+				"thumbnail_url": "mxc://matrix.isg-sys.com/EFqcQftIvHZXUAGXcujIRtcr",
+				"thumbnail_info": {
+					"w": 256,
+					"h": 256,
+					"size": 153452,
+					"mimetype": "image/png"
+				}
+			},
+			"id": "sha256:74c5f8b63ab25104b85f05ac1aef2e9451a02713a937c38721a6c3cbed7745ab"
+		},
+		{
+			"body": "РА-СИ-Я",
+			"url": "mxc://matrix.isg-sys.com/PgPcofbXUqVlYkYPqdHtmbwh",
+			"info": {
+				"w": 256,
+				"h": 256,
+				"size": 183728,
+				"mimetype": "image/png",
+				"thumbnail_url": "mxc://matrix.isg-sys.com/PgPcofbXUqVlYkYPqdHtmbwh",
+				"thumbnail_info": {
+					"w": 256,
+					"h": 256,
+					"size": 183728,
+					"mimetype": "image/png"
+				}
+			},
+			"id": "sha256:c650f389cf226d47c55d3a0b60322721a9294ce5cb0f7ee91638f15119841e46"
+		},
+		{
+			"body": "Привет",
+			"url": "mxc://matrix.isg-sys.com/LxgwAtpfzKyUdEFauKnpnTxT",
+			"info": {
+				"w": 256,
+				"h": 256,
+				"size": 250330,
+				"mimetype": "image/png",
+				"thumbnail_url": "mxc://matrix.isg-sys.com/LxgwAtpfzKyUdEFauKnpnTxT",
+				"thumbnail_info": {
+					"w": 256,
+					"h": 256,
+					"size": 250330,
+					"mimetype": "image/png"
+				}
+			},
+			"id": "sha256:4e205b1475ff9b88ca116d97ffa8dfeb95d4b18964262a49f07adc8d137a7479"
+		},
+		{
+			"body": "Уже лечу",
+			"url": "mxc://matrix.isg-sys.com/SulGpkfJMVWXkitfwKzSyKOF",
+			"info": {
+				"w": 256,
+				"h": 256,
+				"size": 156288,
+				"mimetype": "image/png",
+				"thumbnail_url": "mxc://matrix.isg-sys.com/SulGpkfJMVWXkitfwKzSyKOF",
+				"thumbnail_info": {
+					"w": 256,
+					"h": 256,
+					"size": 156288,
+					"mimetype": "image/png"
+				}
+			},
+			"id": "sha256:d81baf25e7064c9c3de16ac2aebf014fe8a32a767373cfcb172d1dd4775334a8"
+		}
+	]
+}

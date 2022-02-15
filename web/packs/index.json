@@ -5,7 +5,8 @@
     "stickers-Marathon.json",
     "zvyarki.json",
     "other.json",
-    "ukusticker.json"
+    "ukusticker.json",
+    "Olimp.json"
   ],
   "homeserver_url": "https://matrix.isg-sys.com"
 }
