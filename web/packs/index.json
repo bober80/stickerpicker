@@ -6,9 +6,9 @@
     "zvyarki.json",
     "other.json",
     "ukusticker.json",
-    "Olimp.json",
     "tyrannos.json",
-    "shblokun.json"
+    "shblokun.json",
+    "other1.json"
   ],
   "homeserver_url": "https://matrix.isg-sys.com"
 }
