@@ -7,7 +7,8 @@
     "ukusticker.json",
     "tyrannos.json",
     "shblokun.json",
-    "other1.json"
+    "other1.json",
+    "slovodna.json"
   ],
   "homeserver_url": "https://matrix.isg-sys.com"
 }
